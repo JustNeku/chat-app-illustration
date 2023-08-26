@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor: [Solution]()
+- Frontend Mentor: [Solution](https://www.frontendmentor.io/solutions/chap-app-illustration-uUr9dXKYGS)
 - Repository: [GitHub](https://github.com/JustNeku/chat-app-illustration)
 - Live Site URL: [GitHub pages](https://justneku.github.io/chat-app-illustration/)
 
